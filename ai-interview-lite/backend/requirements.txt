@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+websockets
+openai
+python-multipart
+pydantic
+gTTS
+redis
+aiofiles
